@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in using tech to create interactive art, front-end development, computer graphics and audio tech.
 
-- 🌱 I’m currently learning C++ foor developing audio plugins, as well as Javascript, currently beginning the Python journey.
+- 🌱 I’m currently learning C++ for developing audio plugins, as well as Javascript, currently beginning the Python journey.
 
 - 💞️ I’m looking to collaborate on anything that increases my knowledge, but preferebly cool and interesting projects.
 
