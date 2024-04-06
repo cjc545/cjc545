@@ -7,7 +7,7 @@
 
 - 💞️ I’m looking to collaborate on anything that increases my knowledge, but preferebly cool and interesting projects.
 
-- 📫 If you want to reach out, send me an e-mail at cal_bussiness@outlook.com
+- 📫 If you want to reach out, send me a message on Discord: @CeeJay
 
 <!---
 cjc545/cjc545 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
